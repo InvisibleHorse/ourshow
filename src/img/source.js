@@ -1,0 +1,1 @@
+export const mainPageImage = 'https://static.wixstatic.com/media/c837a6_913e47908fe3440db2b87402d0586b59~mv2.jpg/v1/crop/x_10,y_10,w_1981,h_1981/fill/w_569,h_570,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/Artboard%2021%20copy%205-100.jpg';

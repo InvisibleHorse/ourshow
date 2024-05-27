@@ -1,0 +1,50 @@
+/*containers*/
+
+.mainContainer {
+    display: flex;
+    flex-direction: row;
+    gap: 100px;
+    align-items: center;
+    margin: auto;
+    width: 80%;
+    padding: 5%;
+}
+.innerContainer {
+    display: flex; 
+    flex-direction: column;
+    gap: 25px;
+    width: 30%;
+}
+.titleContainer {
+    display: flex;
+    flex-direction: column;
+}
+.titleContainer h1, h2{
+    margin: 0;
+}
+
+/*text*/
+
+h2.heading {
+    font-size: 24px;
+    font-weight: 600;
+}
+
+h1.heading {
+    font-family: oswald, sans-serif;   
+    text-transform: uppercase;
+    font-size: 70px;
+}
+.bolder {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+/*img*/
+.mainPageImage {
+    width: 455px;
+    height: 456px;
+    object-fit: cover;
+    border: 2px black solid;
+    border-radius: 10%;
+}

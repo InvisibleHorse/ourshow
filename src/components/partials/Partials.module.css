@@ -1,0 +1,40 @@
+.nav {
+    display: flex;
+    justify-content: center;
+    margin: 1rem;
+}
+.nav a {
+    height: 100%;
+    display: inline-flex;
+}
+.logo {
+    font-size: 24px;
+    margin-top: 10px;
+    padding-left: 0 !important;
+}
+.header a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black; 
+    padding: 10px 30px;
+    font-weight: bold;
+}
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0 10%;
+}
+
+/*button*/
+.buttonDiv {
+    padding-right: 0 !important;
+    display: flex;
+    justify-content: center;
+    margin: 1rem 0;
+}
+a.buttonLink {
+    background-color: black;
+    border-radius: 20px;
+    color: #ffe2c1;
+}
